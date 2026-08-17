@@ -88,7 +88,7 @@ Esse segundo formato apresenta maior direcionamento e facilita a conferência da
 
 Outros prompts testados estão documentados em:
 
-📁 [`engenharia-de-prompts/prompts.md`](./engenharia-de-prompts/prompts.md)
+📁 [`engenharia-de-prompts/main`](./engenharia-de-prompts/main)
 
 ---
 
@@ -103,7 +103,7 @@ O resultado final da pesquisa foi organizado em um miniguia contendo:
 * Glossário dos principais conceitos;
 * Prompts reutilizáveis para futuras revisões.
 
-📁 [`miniguia/miniguia-habitos-atomicos.md`](./miniguia/miniguia-habitos-atomicos.md)
+📁 [`miniguia/miniguia-habitos-atomicos.md`](./miniguia-habitos-atomicos/main)
 
 ---
 
